@@ -1,0 +1,26 @@
+C:\Users\Danilo Maccari\Desktop\20200525 Entrega final\20200525 Entrega final\bin\Debug\20200525 Entrega final.exe.config
+C:\Users\Danilo Maccari\Desktop\20200525 Entrega final\20200525 Entrega final\bin\Debug\20200525 Entrega final.exe
+C:\Users\Danilo Maccari\Desktop\20200525 Entrega final\20200525 Entrega final\bin\Debug\20200525 Entrega final.pdb
+C:\Users\Danilo Maccari\Desktop\20200525 Entrega final\20200525 Entrega final\obj\Debug\20200525 Entrega final.csprojAssemblyReference.cache
+C:\Users\Danilo Maccari\Desktop\20200525 Entrega final\20200525 Entrega final\obj\Debug\_20200525_Entrega_final.FEntregas.resources
+C:\Users\Danilo Maccari\Desktop\20200525 Entrega final\20200525 Entrega final\obj\Debug\_20200525_Entrega_final.Properties.Resources.resources
+C:\Users\Danilo Maccari\Desktop\20200525 Entrega final\20200525 Entrega final\obj\Debug\20200525 Entrega final.csproj.GenerateResource.cache
+C:\Users\Danilo Maccari\Desktop\20200525 Entrega final\20200525 Entrega final\obj\Debug\20200525 Entrega final.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Maccari\Desktop\20200525 Entrega final\20200525 Entrega final\obj\Debug\20200525 Entrega final.exe
+C:\Users\Danilo Maccari\Desktop\20200525 Entrega final\20200525 Entrega final\obj\Debug\20200525 Entrega final.pdb
+C:\Users\Danilo Maccari\Desktop\20200525 Entrega final\20200525 Entrega final\obj\Debug\_20200525_Entrega_final.FCliente.resources
+C:\Users\Danilo Maccari\Desktop\20200525 Entrega final\20200525 Entrega final\obj\Debug\_20200525_Entrega_final.FPedido.resources
+C:\Users\Danilo Maccari\Desktop\20200525 Entrega final\20200525 Entrega final\obj\Debug\_20200525_Entrega_final.FProducto.resources
+C:\Users\Danilo Maccari\OneDrive\Técnico Superior Computación\90013 Diseño y desarrollo 02\20200525 Entrega final\20200525 Entrega final\bin\Debug\20200525 Entrega final.exe.config
+C:\Users\Danilo Maccari\OneDrive\Técnico Superior Computación\90013 Diseño y desarrollo 02\20200525 Entrega final\20200525 Entrega final\bin\Debug\20200525 Entrega final.exe
+C:\Users\Danilo Maccari\OneDrive\Técnico Superior Computación\90013 Diseño y desarrollo 02\20200525 Entrega final\20200525 Entrega final\bin\Debug\20200525 Entrega final.pdb
+C:\Users\Danilo Maccari\OneDrive\Técnico Superior Computación\90013 Diseño y desarrollo 02\20200525 Entrega final\20200525 Entrega final\obj\Debug\20200525 Entrega final.csprojAssemblyReference.cache
+C:\Users\Danilo Maccari\OneDrive\Técnico Superior Computación\90013 Diseño y desarrollo 02\20200525 Entrega final\20200525 Entrega final\obj\Debug\_20200525_Entrega_final.FCliente.resources
+C:\Users\Danilo Maccari\OneDrive\Técnico Superior Computación\90013 Diseño y desarrollo 02\20200525 Entrega final\20200525 Entrega final\obj\Debug\_20200525_Entrega_final.FPedido.resources
+C:\Users\Danilo Maccari\OneDrive\Técnico Superior Computación\90013 Diseño y desarrollo 02\20200525 Entrega final\20200525 Entrega final\obj\Debug\_20200525_Entrega_final.FProducto.resources
+C:\Users\Danilo Maccari\OneDrive\Técnico Superior Computación\90013 Diseño y desarrollo 02\20200525 Entrega final\20200525 Entrega final\obj\Debug\_20200525_Entrega_final.Properties.Resources.resources
+C:\Users\Danilo Maccari\OneDrive\Técnico Superior Computación\90013 Diseño y desarrollo 02\20200525 Entrega final\20200525 Entrega final\obj\Debug\20200525 Entrega final.csproj.GenerateResource.cache
+C:\Users\Danilo Maccari\OneDrive\Técnico Superior Computación\90013 Diseño y desarrollo 02\20200525 Entrega final\20200525 Entrega final\obj\Debug\20200525 Entrega final.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Maccari\OneDrive\Técnico Superior Computación\90013 Diseño y desarrollo 02\20200525 Entrega final\20200525 Entrega final\obj\Debug\20200525 Entrega final.exe
+C:\Users\Danilo Maccari\OneDrive\Técnico Superior Computación\90013 Diseño y desarrollo 02\20200525 Entrega final\20200525 Entrega final\obj\Debug\20200525 Entrega final.pdb
+C:\Users\Danilo Maccari\OneDrive\Técnico Superior Computación\90013 Diseño y desarrollo 02\20200525 Entrega final\20200525 Entrega final\obj\Debug\_20200525_Entrega_final.FEntregas.resources
